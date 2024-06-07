@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### google cloud key ###
+src/main/resources/bubbly-buttress-425610-f3-93f274eb7959.json
+
+### 키설정 프로퍼티 ###
+src/main/resources/application-secrets.properties
